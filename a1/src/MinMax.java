@@ -6,46 +6,38 @@ public class MinMax {
         if (pair % 2 == 0) { // Even length
             maxList = new int[pair / 2];
             minList = new int[pair / 2];
-            for (int i = 0; i < pair; i++) {
-                if (numbers[i] >= numbers[i + pair]) {
-                    maxList[i] = numbers[i];
-                    minList[i] = numbers[i + pair];
-                }
-                if (numbers[i] <= numbers[i + pair]) {
-                    maxList[i] = numbers[i + pair];
-                    minList[i] = numbers[i];
-                }
-            }
+            valueSplitter(numbers, pair, maxList, minList);
         } else { // Odd length
             maxList = new int[(pair / 2) + 1];
             minList = new int[(pair / 2) + 1];
-            for (int i = 0; i < pair; i++) {
-                if (numbers[i] >= numbers[i + pair]) {
-                    maxList[i] = numbers[i];
-                    minList[i] = numbers[i + pair];
-                }
-                if (numbers[i] <= numbers[i + pair]) {
-                    maxList[i] = numbers[i + pair];
-                    minList[i] = numbers[i];
-                }
-            }
-            maxList[maxList.length-1] = numbers[numbers.length-1];
-            minList[minList.length-1] = numbers[numbers.length-1];
+            valueSplitter(numbers, pair, maxList, minList);
+            maxList[maxList.length - 1] = numbers[numbers.length - 1];
+            minList[minList.length - 1] = numbers[numbers.length - 1];
         }
         int myMin = minList[0]; // Min to the first index
         int myMax = maxList[0]; // Max to the first index
-        // Max finder
-        for (int value : maxList) {
-            if (myMax < value) {
-                myMax = value;
+        // Max & Min finder (maxList & minList having same length)
+        for (int i = 1; i < maxList.length; i++) {
+            if (myMax < maxList[i]) { // Max
+                myMax = maxList[i];
             }
-        }
-        // Min finder
-        for (int value : minList) {
-            if (myMin > value) {
-                myMin = value;
+            if (myMin > minList[i]) { // Min
+                myMin = minList[i];
             }
         }
         return (myMin + myMax) / 2.0;
+    }
+
+    private static void valueSplitter(int[] numbers, int pair, int[] maxList, int[] minList) {
+        for (int i = 0; i < pair; i++) {
+            if (numbers[i] >= numbers[i + pair]) {
+                maxList[i] = numbers[i];
+                minList[i] = numbers[i + pair];
+            }
+            if (numbers[i] <= numbers[i + pair]) {
+                maxList[i] = numbers[i + pair];
+                minList[i] = numbers[i];
+            }
+        }
     }
 }
