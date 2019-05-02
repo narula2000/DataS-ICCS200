@@ -3,14 +3,14 @@ public class MinMax {
         int pair = numbers.length;
         int[] maxList;
         int[] minList;
-        if (pair % 2 == 0) { // Even length
+        if ((pair % 2) == 0) { // Even length
             maxList = new int[pair / 2];
             minList = new int[pair / 2];
-            valueSplitter(numbers, pair, maxList, minList);
+            valueSplitter(numbers, pair/2, maxList, minList);
         } else { // Odd length
             maxList = new int[(pair / 2) + 1];
             minList = new int[(pair / 2) + 1];
-            valueSplitter(numbers, pair, maxList, minList);
+            valueSplitter(numbers, pair/2, maxList, minList);
             maxList[maxList.length - 1] = numbers[numbers.length - 1];
             minList[minList.length - 1] = numbers[numbers.length - 1];
         }
