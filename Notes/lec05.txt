@@ -1,0 +1,39 @@
+* Contacts
+** Precondition : What you give to the programe (x is number of type long) <==> Postcondition : What will the programe gives back (Number of type long == x^2)
+** Uses are Blackbox, Test Fast implementation- Using "Dumb" implementation
+
+* Recursive Thinking
+** Think backwards
+** Small Cases
+** Slove an instance in terms of smaller instaces
+*** pow( b, w) -> b^w ==> [(b^(w-1))*b]
+**** int pow(b,w){
+if (w==0) return 1;
+else return pow(b,w-1)*b
+} // T(w-1)+O(1) = O(n)
+**** Better version
+int pow(b,w){
+if (w==0) return 1;
+else{
+if (w%2==0) return pow(b,w/2)*pow(b,w/2);
+}
+else return pow(b,w/2)*pow(b,w/2)*b;
+} // 2*T(w/2)+O(1) = O(w) it still the same
+|---------------------------------------------|
+
+int pow(b,w){
+if (w==0) return 1;
+else{
+if (w%2==0) return sqr(pow(b,w/2)); // sqr takes a number and and square it
+}
+else return sqr(pow(b,w/2))*b;
+} // T(w)= O(log w)
+|---------------------------------------------|
+*** Thm: b != 0, w >= 0, pow(b,w) <==> b^w
+P(w): "For all b that isn't 0, pow(b,w) returns b^w"
+B.C: P(0) pow(b,w) reuturns 1 = b^0
+I.S: Let w > 0 Assume P(w-1) Assume P(k) for all 0 =< k =< w
+   pow(b,w) ==> t = pow(b,0.5w) returns b^0.5w
+   if even: t*t= b^0.5w * b^0.5w = b^w
+   if odd: t*t*b= b^0.5(w-1) * b^0.5(w-1) * b = b^w
+   Hence Proof
