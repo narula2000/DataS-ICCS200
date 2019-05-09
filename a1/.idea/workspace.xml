@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="df62c680-b344-4bf1-b30e-f47231039059" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a1/HalvingSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/a1/HalvingSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalvingSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HalvingSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinMax.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,6 +59,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -69,17 +68,10 @@
               <item name="a1" type="b2602c69:ProjectViewProjectNode" />
               <item name="a1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="a1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="a1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,6 +145,9 @@
       <workItem from="1556317510978" duration="5184000" />
       <workItem from="1556327980130" duration="428000" />
       <workItem from="1556797830646" duration="394000" />
+      <workItem from="1557325653156" duration="20000" />
+      <workItem from="1557325927739" duration="302000" />
+      <workItem from="1557326245203" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="First ass.1">
       <created>1556169195537</created>
@@ -200,12 +195,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15492000" />
+    <option name="totallyTimeSpent" value="15825000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="6" width="1364" height="761" extended-state="6" />
+    <frame x="1" y="6" width="1438" height="893" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18133536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18821838" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
