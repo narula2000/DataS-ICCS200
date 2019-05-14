@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f706d022-641d-448b-82f8-ac6505a6e6e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RPal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../a1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../a3.pdf" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +18,7 @@
     <favorites_list name="a2" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,8 +47,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="679" />
-    <option name="height" value="723" />
+    <option name="x" value="1367" />
+    <option name="y" value="6" />
+    <option name="width" value="1438" />
+    <option name="height" value="893" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -59,27 +58,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="a2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="a2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="a2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="a2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -136,16 +121,17 @@
       <updated>1557326288480</updated>
       <workItem from="1557326290820" duration="1639000" />
       <workItem from="1557361574769" duration="9539000" />
+      <workItem from="1557472368425" duration="639000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11178000" />
+    <option name="totallyTimeSpent" value="11817000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="6" width="1364" height="761" extended-state="6" />
+    <frame x="1367" y="6" width="1438" height="893" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49683544" visible="true" weight="0.25341427" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49683544" visible="true" weight="0.2571839" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
