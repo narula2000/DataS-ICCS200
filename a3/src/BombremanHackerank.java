@@ -1,27 +1,34 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class BombremanHackerank {
     private static void filler(String[] grid) {
         for (int i = 0; i < grid.length; i++) {
-            for (int j = 0; j < grid[0].length(); j++) {
-                grid[i].replace('.', 'X');
-            }
+           grid[i] = grid[i].replace(".","X");
         }
+
     }
 
-    private static void explode(String[] grid) {
+    private static void explode(String[] grid,String[] oriGrid) {
         for (int i = 0; i < grid.length; i++) {
             for (int j = 0; j < grid[0].length(); j++) {
-                if (grid[i].charAt(j) == 'O') {
-                    if (i == 0) {
-                        grid[i] = '.' +'.'+ grid[i].substring(1);
-                    }else
-                    if (i == grid[i].length() - 1) {
-                        grid[i] = grid[i].substring(0, grid[i].length() - 3)+'.' + '.';
-                    }else
-                    if (i > 1 && j > 1 && i < grid.length-2 && j < grid[i].length()-2) {grid[i]=grid[i].substring(0,j-1)+'.'+grid[i].substring(j+1);}else
-                    if (j > 0) ubber(grid[i], j - 1); // Left
-                    if (i > 0) subber(grid[i - 1], j); // Top
-                    if (j < grid.length - 1) subber(grid[i], j + 1); // Right
-                    if (i < grid.length - 1) subber(grid[i + 1], j); // Bottom
+                if (oriGrid[i].charAt(j) == 'O') {
+                    try {
+                        grid[i] = grid[i].substring(0,j-1) + '.' + grid[i].substring(j);
+                    } catch (StringIndexOutOfBoundsException e) {
+                    } catch (IndexOutOfBoundsException r){}// Left
+                    try {
+                        grid[i-1] = grid[i-1].substring(0,j) + '.' + grid[i-1].substring(j+1);
+                    } catch (StringIndexOutOfBoundsException e) {
+                    } catch (IndexOutOfBoundsException r){}// Top
+                    try {
+                        grid[i] = grid[i].substring(0,j+1) + '.' + grid[i].substring(j+2);
+                    } catch (StringIndexOutOfBoundsException e) {
+                    }catch (IndexOutOfBoundsException r){} // Right
+                    try {
+                        grid[i+1] = grid[i+1].substring(0,j) + '.' + grid[i+1].substring(j+1);
+                    } catch (StringIndexOutOfBoundsException e) {
+                    } catch (IndexOutOfBoundsException r){}// Bottom
                 }
             }
         }
@@ -31,19 +38,18 @@ public class BombremanHackerank {
     private static void rearange(String[] grid) {
         for (int i = 0; i < grid.length; i++) {
             for (int j = 0; j < grid[0].length(); j++) {
-                grid[i].replace('X', '.');
+                grid[i] = grid[i].replace('X', 'O');
             }
         }
     }
 
     static String[] bomberMan(int n, String[] grid) {
-        String[] answer = new String[grid.length];
         int column = grid[0].length();
         int row = grid.length;
         String[] A = grid;
         String[] C = grid;
         if (n == 1) return grid;
-        if (n == 2) {
+        if (n % 2 == 0) {
             for (int i = 0; i < row; i++) {
                 for (int j = 0; j < column; j++) {
                     C[i].replace('.', 'O');
@@ -51,20 +57,35 @@ public class BombremanHackerank {
                 return C; // Filled with bomb.
             }
         }
-        // Make 3,4 to A and 5,6 to B
+        // Make 3 to A and 5 to B
         filler(A);
-        explode(A);
+        //for (int i = 0; i < A.length; i++){System.out.println(A[i]);}
+        //System.out.println("--");
+        explode(A,grid);
+        //for (int i = 0; i < A.length; i++){System.out.println(A[i]);}
+        //System.out.println("--");
         rearange(A);
-        String[] B = A;
-        filler(B);
-        explode(B);
-        rearange(B);
-        while (n != 3 || n != 4 || n != 5 || n != 6) {
+        for (int i = 0; i < A.length; i++){System.out.println(A[i]);}
+        while (n > 7) {
             n -= 4;
         }
-        if (n == 3 || n == 4) return A;
+        if (n == 3) return A;
         else {
+            String[] B = A;
+            filler(B);
+            explode(B,A);
+            rearange(B);
             return B;
         }
+    }
+
+    public static void main(String[] args) {
+        String[] A = new String[]{"......."
+,"...O..."
+,"....O.."
+,"......."
+        ,"OO....."
+        ,"OO....."};
+        bomberMan(3,A);
     }
 }
