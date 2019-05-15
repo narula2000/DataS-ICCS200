@@ -19,7 +19,7 @@ public class BombremanHackerank {
                         grid[i] = grid[i].substring(0, j - 1) + '.' + grid[i].substring(j); // Left
                     }
                     if (j < grid[i].length() - 1) {
-                        grid[i] = grid[i].substring(0, j + 1) + '.' + grid[i].substring(j + 1); // Right
+                        grid[i] = grid[i].substring(0, j + 1) + '.' + grid[i].substring(j + 2); // Right
                     }
                     if (i < grid.length - 1) {
                         grid[i + 1] = grid[i + 1].substring(0, j) + '.' + grid[i + 1].substring(j + 1); // Bottom
@@ -46,13 +46,15 @@ public class BombremanHackerank {
     static String[] bomberMan(int n, String[] grid) {
         int column = grid[0].length();
         int row = grid.length;
-        String[] A = grid;
+        String[] A = new String[grid.length];
+        for (int index = 0; index < grid.length; index++)
+            A[index] = grid[index];
         if (n == 1)
             return grid;
         if (n % 2 == 0) {
             for (int i = 0; i < row; i++) {
                 for (int j = 0; j < column; j++) {
-                    A[i].replace('.', 'O');
+                    A[i] = A[i].replace('.', 'O');
                 }
             }
             return A;
@@ -60,9 +62,6 @@ public class BombremanHackerank {
         // Make 3 to A and 5 to B
         filler(A);
         explode(A, grid);
-        System.out.println(A);
-        System.out.println("----------");
-        System.out.println(grid);
         rearrange(A);
         while (n > 7) {
             n -= 4;
@@ -70,7 +69,9 @@ public class BombremanHackerank {
         if (n == 3)
             return A;
         else {
-            String[] B = A;
+            String[] B = new String[grid.length];
+            for (int index = 0; index < grid.length; index++)
+                B[index] = A[index];
             filler(B);
             explode(B, A);
             rearrange(B);
