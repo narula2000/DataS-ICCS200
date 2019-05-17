@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf39b04e-a589-4239-ab51-8c2fb926fc5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Midway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,16 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BombremanHackerank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
+            <state relative-caret-position="684">
               <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
-              <folding>
-                <element signature="e#1641#1814#0" expanded="true" />
-                <element signature="e#1646#1656#1" expanded="true" />
-                <element signature="e#1641#1814#0" expanded="true" />
-                <element signature="e#1641#1814#0" expanded="true" />
-                <element signature="e#1641#1814#0" expanded="true" />
-                <element signature="e#1641#1814#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -48,7 +41,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BasicBoard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-613">
+            <state relative-caret-position="36">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
@@ -101,8 +94,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,12 +110,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -176,17 +170,19 @@
       <workItem from="1557826048400" duration="8699000" />
       <workItem from="1557888917108" duration="2780000" />
       <workItem from="1557937554763" duration="95000" />
+      <workItem from="1558068725216" duration="262000" />
+      <workItem from="1558069056888" duration="70000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27261000" />
+    <option name="totallyTimeSpent" value="27593000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="6" width="1438" height="893" extended-state="6" />
+    <frame x="4" y="9" width="1358" height="755" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4986911" visible="true" weight="0.26364943" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4986911" visible="true" weight="0.13262194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -202,7 +198,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3290735" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Flutter Performance" order="12" side_tool="true" />
@@ -225,17 +221,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/zulu-jdk/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="622" selection-start-line="622" selection-end-line="622" />
-          <folding>
-            <element signature="e#23812#23813#0" expanded="true" />
-            <element signature="e#23818#23819#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/lib/jvm/zulu-jdk/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/kFactorization.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -248,16 +234,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BombremanHackerank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
+        <state relative-caret-position="684">
           <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
-          <folding>
-            <element signature="e#1641#1814#0" expanded="true" />
-            <element signature="e#1646#1656#1" expanded="true" />
-            <element signature="e#1641#1814#0" expanded="true" />
-            <element signature="e#1641#1814#0" expanded="true" />
-            <element signature="e#1641#1814#0" expanded="true" />
-            <element signature="e#1641#1814#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -270,7 +248,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BasicBoard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-613">
+        <state relative-caret-position="36">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
