@@ -18,7 +18,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FraudulentActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
+            <state relative-caret-position="18">
               <caret line="1" column="64" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
               <folding>
                 <element signature="e#353#668#0" expanded="true" />
@@ -102,7 +102,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -130,18 +130,17 @@
       <workItem from="1558506282868" duration="1185000" />
       <workItem from="1558508789356" duration="1125000" />
       <workItem from="1558512801103" duration="589000" />
-      <workItem from="1558514614421" duration="1442000" />
+      <workItem from="1558514614421" duration="1882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4341000" />
+    <option name="totallyTimeSpent" value="4781000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="9" width="715" height="887" extended-state="6" />
-    <editor active="true" />
+    <frame x="4" y="9" width="1432" height="887" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1464873" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07070707" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -187,7 +186,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FraudulentActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
+        <state relative-caret-position="18">
           <caret line="1" column="64" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
           <folding>
             <element signature="e#353#668#0" expanded="true" />
