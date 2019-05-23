@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f706d022-641d-448b-82f8-ac6505a6e6e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../a3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../a3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mastery-Quiz/src/saveTHEPrisoner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastery-Quiz/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastery-Quiz/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastery-Quiz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastery-Quiz/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastery-Quiz/bin/app/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastery-Quiz/bin/app/fraudulentActivityNotifications.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/a2/hackerrank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/a2/hackerrank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/out/production/a3/BombremanHackerank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../a3/out/production/a3/BombremanHackerank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/out/production/a3/kFactorization.class" beforeDir="false" afterPath="$PROJECT_DIR$/../a3/out/production/a3/kFactorization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a3/src/BombremanHackerank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../a3/src/BombremanHackerank.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +28,20 @@
     <favorites_list name="a2" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hackerrank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,10 +70,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1367" />
-    <option name="y" value="6" />
-    <option name="width" value="1438" />
-    <option name="height" value="893" />
+    <option name="x" value="180" />
+    <option name="y" value="112" />
+    <option name="width" value="1080" />
+    <option name="height" value="676" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -58,15 +81,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="a2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="a2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="a2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="a2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -122,16 +161,18 @@
       <workItem from="1557326290820" duration="1639000" />
       <workItem from="1557361574769" duration="9539000" />
       <workItem from="1557472368425" duration="639000" />
+      <workItem from="1558584288227" duration="64000" />
+      <workItem from="1558587624624" duration="95000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11817000" />
+    <option name="totallyTimeSpent" value="11976000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1367" y="6" width="1438" height="893" extended-state="6" />
+    <frame x="7" y="12" width="1426" height="881" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49683544" visible="true" weight="0.2571839" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49683544" visible="true" weight="0.26449275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -140,7 +181,7 @@
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32845744" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.48892406" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -169,51 +210,11 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/zulu-jdk/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="734" selection-start-line="734" selection-end-line="734" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/zulu-jdk/src.zip!/java/util/AbstractCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/zulu-jdk/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/zulu-jdk/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="165" selection-start-line="165" selection-end-line="165" />
-          <folding>
-            <element signature="e#7249#7250#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/zulu-jdk/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="830" selection-start-line="830" selection-end-line="830" />
-          <folding>
-            <element signature="e#32994#33041#0" expanded="true" />
-            <element signature="e#32994#33041#0" expanded="true" />
-            <element signature="e#33081#33104#0" expanded="true" />
-            <element signature="e#33081#33104#0" expanded="true" />
-            <element signature="e#33105#33106#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/lib/jvm/zulu-jdk/src.zip!/java/io/PrintStream.java" />
+    <entry file="jar:///usr/lib/jvm/zulu-jdk/src.zip!/java/util/AbstractCollection.java" />
+    <entry file="jar:///usr/lib/jvm/zulu-jdk/src.zip!/java/util/AbstractList.java" />
+    <entry file="jar:///usr/lib/jvm/zulu-jdk/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar:///usr/lib/jvm/zulu-jdk/src.zip!/java/lang/Integer.java" />
     <entry file="file://$PROJECT_DIR$/src/hackerrank.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -233,12 +234,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hackerrank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="414">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#138#159#1" expanded="true" />
-            <element signature="e#168#180#1" expanded="true" />
           </folding>
         </state>
       </provider>
