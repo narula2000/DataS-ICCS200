@@ -1,4 +1,4 @@
-public class FraudulentActivity {
+public class fraudulentActivityNotifications {
 	static int activityNotifications(int[] expenditure, int d) {
 		int[] frequency = new int[201]; // Maximum value is 200
 		double median;
