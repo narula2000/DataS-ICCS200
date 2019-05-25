@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c167b84-8b5f-470e-bfdd-522ba6e43720" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mastery-I/hellWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../a3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a3/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9c167b84-8b5f-470e-bfdd-522ba6e43720" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,20 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Weave.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-              <folding>
-                <element signature="e#87#236#0" expanded="true" />
-                <element signature="e#87#236#0" expanded="true" />
-                <element signature="e#124#147#1" expanded="true" />
-                <element signature="e#142#146#0" expanded="true" />
-                <element signature="e#157#176#1" expanded="true" />
-                <element signature="e#175#178#0" expanded="true" />
-                <element signature="e#189#208#1" expanded="true" />
-                <element signature="e#207#210#0" expanded="true" />
-                <element signature="e#224#229#0" expanded="true" />
-                <element signature="e#224#229#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="432">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -210,17 +193,17 @@
       <workItem from="1558596107978" duration="420000" />
       <workItem from="1558596591224" duration="4649000" />
       <workItem from="1558667345996" duration="1640000" />
+      <workItem from="1558747990190" duration="142000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8232000" />
+    <option name="totallyTimeSpent" value="8374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="12" width="1426" height="881" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.27753624" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.13768116" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -273,13 +256,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LostItems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ClosestSquares.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -287,22 +263,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/LostItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Weave.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#87#236#0" expanded="true" />
-            <element signature="e#87#236#0" expanded="true" />
-            <element signature="e#124#147#1" expanded="true" />
-            <element signature="e#142#146#0" expanded="true" />
-            <element signature="e#157#176#1" expanded="true" />
-            <element signature="e#175#178#0" expanded="true" />
-            <element signature="e#189#208#1" expanded="true" />
-            <element signature="e#207#210#0" expanded="true" />
-            <element signature="e#224#229#0" expanded="true" />
-            <element signature="e#224#229#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="432">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
