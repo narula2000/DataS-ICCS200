@@ -7,7 +7,8 @@ public class BestSplit {
 		int[] right;
 		double[] answers = {Double.MAX_VALUE, 0};
 		double diff;
-		for (int i = 1; i < len; i++) {
+		for (int i = 1; i < len; i++) { //run from i = 1 - n O(n*n)
+
 			left = Arrays.copyOfRange(a, 0, i);
 			right = Arrays.copyOfRange(a, i, a.length);
 			diff = Math.pow((sum(left) - sum(right)), 2);
