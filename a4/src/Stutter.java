@@ -26,7 +26,7 @@ public class Stutter {
 
         int m = b.length();
         int n = a.length();
-        int max = m / n;
+        int max = m / n; // Most possible substring it can has
 
         return helperMS(a, b, 0, max);
 
@@ -34,12 +34,12 @@ public class Stutter {
 
     public static int helperMS(String a, String b, int low, int up) {
         if (low - up >= -1)
-            return low;
+            return low; // If A > B return 0 also keep tracks of how many iteration it has gone
         else {
             if (isSubstr(stutter(a, (low + up) / 2), b)) { // Check if stutter String in is Sub
-                return helperMS(a, b, (low + up) / 2, up);
+                return helperMS(a, b, (low + up) / 2, up); // Increase k by half of max
             } else
-                return helperMS(a, b, low, (low + up) / 2);
+                return helperMS(a, b, low, (low + up) / 2); // Decrease k by half of max
         }
     }
 }
