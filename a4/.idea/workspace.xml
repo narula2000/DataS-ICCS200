@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5084ade4-46d9-4ce8-a27d-1cf19bd36c91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Zombies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mastery-I/src/BestSplit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastery-I/src/BestSplit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mastery-I/src/ClosestSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastery-I/src/ClosestSquares.java" afterDir="false" />
-    </list>
+    <list default="true" id="5084ade4-46d9-4ce8-a27d-1cf19bd36c91" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Zombies.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -69,26 +65,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="a4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="a4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="a4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="a4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -146,6 +123,7 @@
       <workItem from="1559186248201" duration="596000" />
       <workItem from="1559197575868" duration="6283000" />
       <workItem from="1559310998604" duration="593000" />
+      <workItem from="1559368357145" duration="93000" />
     </task>
     <task id="LOCAL-00001" summary="Added a4 starter pack">
       <created>1558748946543</created>
@@ -165,10 +143,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20577000" />
+    <option name="totallyTimeSpent" value="20670000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="445" width="1426" height="448" extended-state="6" />
+    <frame x="29" y="34" width="1308" height="705" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.035756852" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -241,8 +219,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Zombies.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
