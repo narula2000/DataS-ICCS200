@@ -1,15 +1,9 @@
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.Stack;
 
 public class ExprMonger {
 	public static double evalFullyParenthesized(List<String> tokens) {
-		// todo: implement me
-		return 0.0;
-	}
-
-	public static ArrayList augmentExpr(List<String> tokens) {
 		Stack<String> ops = new Stack<>();
 		Stack<Double> vals = new Stack<>();
 		for (String tok : tokens) {
@@ -34,8 +28,9 @@ public class ExprMonger {
 					break;
 			}
 		}
-		return new ArrayList<>(Collections.singleton(Double.toString(vals.peek())));
+		return vals.peek();
 	}
+
 	static double opr(double u, String op, double v) {
 		switch (op) {
 			case "+":
@@ -47,11 +42,17 @@ public class ExprMonger {
 			case "/":
 				return u / v;
 			case "**":
-				return Math.pow(u,v);
+				return Math.pow(u, v);
 			default:
 				return Double.NaN;
 		}
 	}
+
+	public static ArrayList augmentExpr(List<String> tokens) {
+		// todo: implement me
+		return new ArrayList();
+	}
+
 
 	public static double evalExpr(List<String> tokens) {
 		// todo: implement me

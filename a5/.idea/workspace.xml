@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30413d59-3103-4f61-a0ee-709885c253f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../a2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../a4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../a4/src/Zombies.java" beforeDir="false" afterPath="$PROJECT_DIR$/../a4/src/Zombies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DoubleTrouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoubleTrouble.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ExprMonger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExprMonger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MultiwayMerge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiwayMerge.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,75 +22,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DoubleTrouble.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="306">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <element signature="e#91#144#0" expanded="true" />
-                <element signature="e#361#397#1" expanded="true" />
-                <element signature="e#226#243#0" expanded="true" />
-                <element signature="e#226#245#0" expanded="true" />
-                <element signature="e#249#448#0" expanded="true" />
-                <element signature="e#249#448#0" expanded="true" />
-                <element signature="e#484#534#0" expanded="true" />
-                <element signature="e#337#347#0" expanded="true" />
-                <element signature="e#355#444#0" expanded="true" />
-                <element signature="e#355#444#0" expanded="true" />
-                <element signature="e#430#440#0" expanded="true" />
-                <element signature="e#564#951#0" expanded="true" />
-                <element signature="e#564#951#0" expanded="true" />
-                <element signature="e#587#683#0" expanded="true" />
-                <element signature="e#587#683#0" expanded="true" />
-                <element signature="e#1162#1190#1" expanded="true" />
-                <element signature="e#1194#1243#0" expanded="true" />
-                <element signature="e#781#947#0" expanded="true" />
-                <element signature="e#781#947#0" expanded="true" />
-                <element signature="e#838#843#0" expanded="true" />
-                <element signature="e#1030#1240#0" expanded="true" />
-                <element signature="e#1030#1240#0" expanded="true" />
-                <element signature="e#1914#1946#1" expanded="true" />
-                <element signature="e#1122#1236#0" expanded="true" />
-                <element signature="e#1122#1236#0" expanded="true" />
-                <element signature="e#1164#1169#0" expanded="true" />
+                <element signature="e#544#739#0" expanded="true" />
+                <element signature="e#544#739#0" expanded="true" />
+                <element signature="e#587#612#1" expanded="true" />
+                <element signature="e#614#735#0" expanded="true" />
+                <element signature="e#614#735#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MultiwayMerge.java">
+        <entry file="file://$PROJECT_DIR$/src/ExprMonger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="473">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#136#189#1" expanded="true" />
-                <element signature="e#192#308#0" expanded="true" />
-                <element signature="e#428#442#1" expanded="true" />
-                <element signature="e#382#472#0" expanded="true" />
-                <element signature="e#387#411#0" expanded="true" />
-                <element signature="e#382#472#0" expanded="true" />
-                <element signature="e#475#678#0" expanded="true" />
-                <element signature="e#475#678#0" expanded="true" />
-                <element signature="e#626#674#1" expanded="true" />
-                <element signature="e#606#657#0" expanded="true" />
-                <element signature="e#669#687#0" expanded="true" />
-                <element signature="e#606#657#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Utils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#127#196#1" expanded="true" />
-                <element signature="e#150#195#0" expanded="true" />
-                <element signature="e#201#250#1" expanded="true" />
-                <element signature="e#256#295#1" expanded="true" />
-                <element signature="e#300#340#1" expanded="true" />
+                <element signature="e#226#260#1" expanded="true" />
+                <element signature="e#263#298#1" expanded="true" />
+                <element signature="e#247#637#0" expanded="true" />
+                <element signature="e#306#316#0" expanded="true" />
+                <element signature="e#247#637#0" expanded="true" />
+                <element signature="e#278#633#0" expanded="true" />
+                <element signature="e#278#633#0" expanded="true" />
+                <element signature="e#495#517#1" expanded="true" />
+                <element signature="e#523#545#1" expanded="true" />
+                <element signature="e#551#573#1" expanded="true" />
+                <element signature="e#718#935#0" expanded="true" />
+                <element signature="e#718#935#0" expanded="true" />
+                <element signature="e#787#802#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -107,10 +68,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ExprMonger.java" />
         <option value="$PROJECT_DIR$/src/MultiwayMerge.java" />
-        <option value="$PROJECT_DIR$/src/DoubleTrouble.java" />
         <option value="$PROJECT_DIR$/src/Utils.java" />
+        <option value="$PROJECT_DIR$/src/ExprMonger.java" />
+        <option value="$PROJECT_DIR$/src/DoubleTrouble.java" />
       </list>
     </option>
   </component>
@@ -126,8 +87,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,7 +145,8 @@
       <workItem from="1559700412838" duration="2784000" />
       <workItem from="1559878101993" duration="5545000" />
       <workItem from="1559886323848" duration="628000" />
-      <workItem from="1559957483493" duration="825000" />
+      <workItem from="1559957483493" duration="1617000" />
+      <workItem from="1559985330040" duration="1232000" />
     </task>
     <task id="LOCAL-00001" summary="Started a5">
       <created>1559368688602</created>
@@ -197,13 +159,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13064000" />
+    <option name="totallyTimeSpent" value="15088000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="12" width="1352" height="749" extended-state="6" />
+    <frame x="7" y="12" width="1426" height="881" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20061256" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -246,95 +208,64 @@
     <option name="LAST_COMMIT_MESSAGE" value="Started a5" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ExprMonger.java">
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar!/java/util/function/Function.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
-          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#250#284#1" expanded="true" />
-            <element signature="e#287#322#1" expanded="true" />
-            <element signature="e#379#769#0" expanded="true" />
-            <element signature="e#330#340#0" expanded="true" />
-            <element signature="e#379#769#0" expanded="true" />
-            <element signature="e#410#765#0" expanded="true" />
-            <element signature="e#410#765#0" expanded="true" />
-            <element signature="e#519#541#1" expanded="true" />
-            <element signature="e#547#569#1" expanded="true" />
-            <element signature="e#575#597#1" expanded="true" />
-            <element signature="e#906#1122#0" expanded="true" />
-            <element signature="e#906#1122#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DoubleTrouble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding>
-            <element signature="e#91#144#0" expanded="true" />
-            <element signature="e#361#397#1" expanded="true" />
-            <element signature="e#226#243#0" expanded="true" />
-            <element signature="e#226#245#0" expanded="true" />
-            <element signature="e#249#448#0" expanded="true" />
-            <element signature="e#249#448#0" expanded="true" />
-            <element signature="e#484#534#0" expanded="true" />
-            <element signature="e#337#347#0" expanded="true" />
-            <element signature="e#355#444#0" expanded="true" />
-            <element signature="e#355#444#0" expanded="true" />
-            <element signature="e#430#440#0" expanded="true" />
-            <element signature="e#564#951#0" expanded="true" />
-            <element signature="e#564#951#0" expanded="true" />
-            <element signature="e#587#683#0" expanded="true" />
-            <element signature="e#587#683#0" expanded="true" />
-            <element signature="e#1162#1190#1" expanded="true" />
-            <element signature="e#1194#1243#0" expanded="true" />
-            <element signature="e#781#947#0" expanded="true" />
-            <element signature="e#781#947#0" expanded="true" />
-            <element signature="e#838#843#0" expanded="true" />
-            <element signature="e#1030#1240#0" expanded="true" />
-            <element signature="e#1030#1240#0" expanded="true" />
-            <element signature="e#1914#1946#1" expanded="true" />
-            <element signature="e#1122#1236#0" expanded="true" />
-            <element signature="e#1122#1236#0" expanded="true" />
-            <element signature="e#1164#1169#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="144">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#127#196#1" expanded="true" />
-            <element signature="e#150#195#0" expanded="true" />
-            <element signature="e#201#250#1" expanded="true" />
-            <element signature="e#256#295#1" expanded="true" />
-            <element signature="e#300#340#1" expanded="true" />
-          </folding>
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MultiwayMerge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="396">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#136#189#1" expanded="true" />
-            <element signature="e#192#308#0" expanded="true" />
-            <element signature="e#428#442#1" expanded="true" />
-            <element signature="e#382#472#0" expanded="true" />
             <element signature="e#387#411#0" expanded="true" />
-            <element signature="e#382#472#0" expanded="true" />
-            <element signature="e#475#678#0" expanded="true" />
-            <element signature="e#475#678#0" expanded="true" />
-            <element signature="e#626#674#1" expanded="true" />
-            <element signature="e#606#657#0" expanded="true" />
-            <element signature="e#669#687#0" expanded="true" />
-            <element signature="e#606#657#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DoubleTrouble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#544#739#0" expanded="true" />
+            <element signature="e#544#739#0" expanded="true" />
+            <element signature="e#587#612#1" expanded="true" />
+            <element signature="e#614#735#0" expanded="true" />
+            <element signature="e#614#735#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExprMonger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#226#260#1" expanded="true" />
+            <element signature="e#263#298#1" expanded="true" />
+            <element signature="e#247#637#0" expanded="true" />
+            <element signature="e#306#316#0" expanded="true" />
+            <element signature="e#247#637#0" expanded="true" />
+            <element signature="e#278#633#0" expanded="true" />
+            <element signature="e#278#633#0" expanded="true" />
+            <element signature="e#495#517#1" expanded="true" />
+            <element signature="e#523#545#1" expanded="true" />
+            <element signature="e#551#573#1" expanded="true" />
+            <element signature="e#718#935#0" expanded="true" />
+            <element signature="e#718#935#0" expanded="true" />
+            <element signature="e#787#802#0" expanded="true" />
           </folding>
         </state>
       </provider>
