@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30413d59-3103-4f61-a0ee-709885c253f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DoubleTrouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoubleTrouble.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ExprMonger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExprMonger.java" afterDir="false" />
     </list>
@@ -19,27 +17,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DoubleTrouble.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="162">
+              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
               <folding>
-                <element signature="e#544#739#0" expanded="true" />
-                <element signature="e#544#739#0" expanded="true" />
+                <element signature="e#254#475#0" expanded="true" />
+                <element signature="e#254#475#0" expanded="true" />
+                <element signature="e#544#565#0" expanded="true" />
+                <element signature="e#544#565#0" expanded="true" />
                 <element signature="e#587#612#1" expanded="true" />
-                <element signature="e#614#735#0" expanded="true" />
-                <element signature="e#614#735#0" expanded="true" />
+                <element signature="e#598#719#0" expanded="true" />
+                <element signature="e#598#719#0" expanded="true" />
+                <element signature="e#829#1232#0" expanded="true" />
+                <element signature="e#829#1232#0" expanded="true" />
+                <element signature="e#846#938#0" expanded="true" />
+                <element signature="e#846#938#0" expanded="true" />
+                <element signature="e#708#733#1" expanded="true" />
+                <element signature="e#737#791#1" expanded="true" />
+                <element signature="e#1040#1228#0" expanded="true" />
+                <element signature="e#1040#1228#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ExprMonger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="54">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#226#260#1" expanded="true" />
@@ -146,7 +154,7 @@
       <workItem from="1559878101993" duration="5545000" />
       <workItem from="1559886323848" duration="628000" />
       <workItem from="1559957483493" duration="1617000" />
-      <workItem from="1559985330040" duration="1232000" />
+      <workItem from="1559985330040" duration="2717000" />
     </task>
     <task id="LOCAL-00001" summary="Started a5">
       <created>1559368688602</created>
@@ -155,11 +163,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559368688602</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finishing A5">
+      <created>1559986602717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559986602718</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15088000" />
+    <option name="totallyTimeSpent" value="16573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="12" width="1426" height="881" extended-state="6" />
@@ -205,7 +220,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Started a5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started a5" />
+    <MESSAGE value="Finishing A5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finishing A5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar:///usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar!/java/util/function/Function.class">
@@ -233,24 +249,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DoubleTrouble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#544#739#0" expanded="true" />
-            <element signature="e#544#739#0" expanded="true" />
-            <element signature="e#587#612#1" expanded="true" />
-            <element signature="e#614#735#0" expanded="true" />
-            <element signature="e#614#735#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ExprMonger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        <state relative-caret-position="54">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#226#260#1" expanded="true" />
@@ -266,6 +268,30 @@
             <element signature="e#718#935#0" expanded="true" />
             <element signature="e#718#935#0" expanded="true" />
             <element signature="e#787#802#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DoubleTrouble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding>
+            <element signature="e#254#475#0" expanded="true" />
+            <element signature="e#254#475#0" expanded="true" />
+            <element signature="e#544#565#0" expanded="true" />
+            <element signature="e#544#565#0" expanded="true" />
+            <element signature="e#587#612#1" expanded="true" />
+            <element signature="e#598#719#0" expanded="true" />
+            <element signature="e#598#719#0" expanded="true" />
+            <element signature="e#829#1232#0" expanded="true" />
+            <element signature="e#829#1232#0" expanded="true" />
+            <element signature="e#846#938#0" expanded="true" />
+            <element signature="e#846#938#0" expanded="true" />
+            <element signature="e#708#733#1" expanded="true" />
+            <element signature="e#737#791#1" expanded="true" />
+            <element signature="e#1040#1228#0" expanded="true" />
+            <element signature="e#1040#1228#0" expanded="true" />
           </folding>
         </state>
       </provider>
