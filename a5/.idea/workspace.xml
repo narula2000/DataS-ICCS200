@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30413d59-3103-4f61-a0ee-709885c253f2" name="Default Changelist" comment="" />
+    <list default="true" id="30413d59-3103-4f61-a0ee-709885c253f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../a2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/src/Zombies.java" beforeDir="false" afterPath="$PROJECT_DIR$/../a4/src/Zombies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DoubleTrouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoubleTrouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExprMonger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExprMonger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiwayMerge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiwayMerge.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,40 +17,84 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DoubleTrouble.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExprMonger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MultiwayMerge.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="72">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+              <folding>
+                <element signature="e#91#144#0" expanded="true" />
+                <element signature="e#361#397#1" expanded="true" />
+                <element signature="e#226#243#0" expanded="true" />
+                <element signature="e#226#245#0" expanded="true" />
+                <element signature="e#249#448#0" expanded="true" />
+                <element signature="e#249#448#0" expanded="true" />
+                <element signature="e#484#534#0" expanded="true" />
+                <element signature="e#337#347#0" expanded="true" />
+                <element signature="e#355#444#0" expanded="true" />
+                <element signature="e#355#444#0" expanded="true" />
+                <element signature="e#430#440#0" expanded="true" />
+                <element signature="e#564#951#0" expanded="true" />
+                <element signature="e#564#951#0" expanded="true" />
+                <element signature="e#587#683#0" expanded="true" />
+                <element signature="e#587#683#0" expanded="true" />
+                <element signature="e#1162#1190#1" expanded="true" />
+                <element signature="e#1194#1243#0" expanded="true" />
+                <element signature="e#781#947#0" expanded="true" />
+                <element signature="e#781#947#0" expanded="true" />
+                <element signature="e#838#843#0" expanded="true" />
+                <element signature="e#1030#1240#0" expanded="true" />
+                <element signature="e#1030#1240#0" expanded="true" />
+                <element signature="e#1914#1946#1" expanded="true" />
+                <element signature="e#1122#1236#0" expanded="true" />
+                <element signature="e#1122#1236#0" expanded="true" />
+                <element signature="e#1164#1169#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MultiwayMerge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#136#189#1" expanded="true" />
+                <element signature="e#192#308#0" expanded="true" />
+                <element signature="e#428#442#1" expanded="true" />
+                <element signature="e#382#472#0" expanded="true" />
+                <element signature="e#387#411#0" expanded="true" />
+                <element signature="e#382#472#0" expanded="true" />
+                <element signature="e#475#678#0" expanded="true" />
+                <element signature="e#475#678#0" expanded="true" />
+                <element signature="e#626#674#1" expanded="true" />
+                <element signature="e#606#657#0" expanded="true" />
+                <element signature="e#669#687#0" expanded="true" />
+                <element signature="e#606#657#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="234">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#127#196#1" expanded="true" />
+                <element signature="e#150#195#0" expanded="true" />
+                <element signature="e#201#250#1" expanded="true" />
+                <element signature="e#256#295#1" expanded="true" />
+                <element signature="e#300#340#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,8 +104,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ExprMonger.java" />
+        <option value="$PROJECT_DIR$/src/MultiwayMerge.java" />
+        <option value="$PROJECT_DIR$/src/DoubleTrouble.java" />
+        <option value="$PROJECT_DIR$/src/Utils.java" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="7" />
+    <option name="x" value="721" />
     <option name="y" value="12" />
     <option name="width" value="712" />
     <option name="height" value="881" />
@@ -64,6 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -81,7 +144,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -90,7 +152,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -117,6 +179,12 @@
       <updated>1559368453149</updated>
       <workItem from="1559368458834" duration="6000" />
       <workItem from="1559368628722" duration="61000" />
+      <workItem from="1559544425767" duration="987000" />
+      <workItem from="1559610868415" duration="2228000" />
+      <workItem from="1559700412838" duration="2784000" />
+      <workItem from="1559878101993" duration="5545000" />
+      <workItem from="1559886323848" duration="628000" />
+      <workItem from="1559957483493" duration="825000" />
     </task>
     <task id="LOCAL-00001" summary="Started a5">
       <created>1559368688602</created>
@@ -129,12 +197,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67000" />
+    <option name="totallyTimeSpent" value="13064000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="29" y="34" width="1308" height="705" extended-state="6" />
+    <frame x="7" y="12" width="1352" height="749" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25356576" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20061256" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -150,7 +219,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32978722" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Flutter Performance" order="12" side_tool="true" />
@@ -177,31 +246,96 @@
     <option name="LAST_COMMIT_MESSAGE" value="Started a5" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DoubleTrouble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ExprMonger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="653">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#250#284#1" expanded="true" />
+            <element signature="e#287#322#1" expanded="true" />
+            <element signature="e#379#769#0" expanded="true" />
+            <element signature="e#330#340#0" expanded="true" />
+            <element signature="e#379#769#0" expanded="true" />
+            <element signature="e#410#765#0" expanded="true" />
+            <element signature="e#410#765#0" expanded="true" />
+            <element signature="e#519#541#1" expanded="true" />
+            <element signature="e#547#569#1" expanded="true" />
+            <element signature="e#575#597#1" expanded="true" />
+            <element signature="e#906#1122#0" expanded="true" />
+            <element signature="e#906#1122#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MultiwayMerge.java">
+    <entry file="file://$PROJECT_DIR$/src/DoubleTrouble.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="72">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <element signature="e#91#144#0" expanded="true" />
+            <element signature="e#361#397#1" expanded="true" />
+            <element signature="e#226#243#0" expanded="true" />
+            <element signature="e#226#245#0" expanded="true" />
+            <element signature="e#249#448#0" expanded="true" />
+            <element signature="e#249#448#0" expanded="true" />
+            <element signature="e#484#534#0" expanded="true" />
+            <element signature="e#337#347#0" expanded="true" />
+            <element signature="e#355#444#0" expanded="true" />
+            <element signature="e#355#444#0" expanded="true" />
+            <element signature="e#430#440#0" expanded="true" />
+            <element signature="e#564#951#0" expanded="true" />
+            <element signature="e#564#951#0" expanded="true" />
+            <element signature="e#587#683#0" expanded="true" />
+            <element signature="e#587#683#0" expanded="true" />
+            <element signature="e#1162#1190#1" expanded="true" />
+            <element signature="e#1194#1243#0" expanded="true" />
+            <element signature="e#781#947#0" expanded="true" />
+            <element signature="e#781#947#0" expanded="true" />
+            <element signature="e#838#843#0" expanded="true" />
+            <element signature="e#1030#1240#0" expanded="true" />
+            <element signature="e#1030#1240#0" expanded="true" />
+            <element signature="e#1914#1946#1" expanded="true" />
+            <element signature="e#1122#1236#0" expanded="true" />
+            <element signature="e#1122#1236#0" expanded="true" />
+            <element signature="e#1164#1169#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="234">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#127#196#1" expanded="true" />
+            <element signature="e#150#195#0" expanded="true" />
+            <element signature="e#201#250#1" expanded="true" />
+            <element signature="e#256#295#1" expanded="true" />
+            <element signature="e#300#340#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiwayMerge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#136#189#1" expanded="true" />
+            <element signature="e#192#308#0" expanded="true" />
+            <element signature="e#428#442#1" expanded="true" />
+            <element signature="e#382#472#0" expanded="true" />
+            <element signature="e#387#411#0" expanded="true" />
+            <element signature="e#382#472#0" expanded="true" />
+            <element signature="e#475#678#0" expanded="true" />
+            <element signature="e#475#678#0" expanded="true" />
+            <element signature="e#626#674#1" expanded="true" />
+            <element signature="e#606#657#0" expanded="true" />
+            <element signature="e#669#687#0" expanded="true" />
+            <element signature="e#606#657#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

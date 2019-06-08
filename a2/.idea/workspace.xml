@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f706d022-641d-448b-82f8-ac6505a6e6e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Mastery-Quiz/src/saveTHEPrisoner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mastery-Quiz/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastery-Quiz/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mastery-Quiz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastery-Quiz/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mastery-Quiz/bin/app/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mastery-Quiz/bin/app/fraudulentActivityNotifications.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a2/hackerrank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/a2/hackerrank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../a3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../a3/out/production/a3/BombremanHackerank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../a3/out/production/a3/BombremanHackerank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../a3/out/production/a3/kFactorization.class" beforeDir="false" afterPath="$PROJECT_DIR$/../a3/out/production/a3/kFactorization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../a3/src/BombremanHackerank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../a3/src/BombremanHackerank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a4/src/Zombies.java" beforeDir="false" afterPath="$PROJECT_DIR$/../a4/src/Zombies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a5/src/ExprMonger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../a5/src/ExprMonger.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,7 +74,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -98,7 +91,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,16 +156,17 @@
       <workItem from="1557472368425" duration="639000" />
       <workItem from="1558584288227" duration="64000" />
       <workItem from="1558587624624" duration="95000" />
+      <workItem from="1559887968480" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11976000" />
+    <option name="totallyTimeSpent" value="11981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="12" width="1426" height="881" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49683544" visible="true" weight="0.26449275" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49683544" visible="true" weight="0.13115942" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
