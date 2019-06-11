@@ -20,24 +20,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DoubleTrouble.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            <state relative-caret-position="545">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
               <folding>
                 <element signature="e#254#475#0" expanded="true" />
                 <element signature="e#254#475#0" expanded="true" />
                 <element signature="e#544#565#0" expanded="true" />
                 <element signature="e#544#565#0" expanded="true" />
                 <element signature="e#587#612#1" expanded="true" />
-                <element signature="e#598#719#0" expanded="true" />
-                <element signature="e#598#719#0" expanded="true" />
-                <element signature="e#829#1232#0" expanded="true" />
-                <element signature="e#829#1232#0" expanded="true" />
-                <element signature="e#846#938#0" expanded="true" />
-                <element signature="e#846#938#0" expanded="true" />
+                <element signature="e#596#713#0" expanded="true" />
+                <element signature="e#596#713#0" expanded="true" />
+                <element signature="e#821#1224#0" expanded="true" />
+                <element signature="e#821#1224#0" expanded="true" />
+                <element signature="e#838#930#0" expanded="true" />
+                <element signature="e#838#930#0" expanded="true" />
                 <element signature="e#708#733#1" expanded="true" />
                 <element signature="e#737#791#1" expanded="true" />
-                <element signature="e#1040#1228#0" expanded="true" />
-                <element signature="e#1040#1228#0" expanded="true" />
+                <element signature="e#1032#1220#0" expanded="true" />
+                <element signature="e#1032#1220#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -154,7 +154,7 @@
       <workItem from="1559878101993" duration="5545000" />
       <workItem from="1559886323848" duration="628000" />
       <workItem from="1559957483493" duration="1617000" />
-      <workItem from="1559985330040" duration="2717000" />
+      <workItem from="1559985330040" duration="3418000" />
     </task>
     <task id="LOCAL-00001" summary="Started a5">
       <created>1559368688602</created>
@@ -174,7 +174,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16573000" />
+    <option name="totallyTimeSpent" value="17274000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="12" width="1426" height="881" extended-state="6" />
@@ -274,24 +274,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DoubleTrouble.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        <state relative-caret-position="545">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
           <folding>
             <element signature="e#254#475#0" expanded="true" />
             <element signature="e#254#475#0" expanded="true" />
             <element signature="e#544#565#0" expanded="true" />
             <element signature="e#544#565#0" expanded="true" />
             <element signature="e#587#612#1" expanded="true" />
-            <element signature="e#598#719#0" expanded="true" />
-            <element signature="e#598#719#0" expanded="true" />
-            <element signature="e#829#1232#0" expanded="true" />
-            <element signature="e#829#1232#0" expanded="true" />
-            <element signature="e#846#938#0" expanded="true" />
-            <element signature="e#846#938#0" expanded="true" />
+            <element signature="e#596#713#0" expanded="true" />
+            <element signature="e#596#713#0" expanded="true" />
+            <element signature="e#821#1224#0" expanded="true" />
+            <element signature="e#821#1224#0" expanded="true" />
+            <element signature="e#838#930#0" expanded="true" />
+            <element signature="e#838#930#0" expanded="true" />
             <element signature="e#708#733#1" expanded="true" />
             <element signature="e#737#791#1" expanded="true" />
-            <element signature="e#1040#1228#0" expanded="true" />
-            <element signature="e#1040#1228#0" expanded="true" />
+            <element signature="e#1032#1220#0" expanded="true" />
+            <element signature="e#1032#1220#0" expanded="true" />
           </folding>
         </state>
       </provider>
