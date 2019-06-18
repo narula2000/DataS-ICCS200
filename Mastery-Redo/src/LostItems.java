@@ -29,7 +29,6 @@ public class LostItems {
 			counts[value]++;
 		}
 		return counts;
-
 	}
 
 	public static void main(String[] args) {
