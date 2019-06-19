@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4e29ebe-0da8-4340-be53-88e1a20282a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/LostItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LostItems.java" afterDir="false" />
-    </list>
+    <list default="true" id="e4e29ebe-0da8-4340-be53-88e1a20282a5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,31 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BestSplit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
+            <state relative-caret-position="653">
               <caret line="38" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <element signature="e#67#86#1" expanded="true" />
-                <element signature="e#89#103#1" expanded="true" />
-                <element signature="e#119#161#1" expanded="true" />
-                <element signature="e#164#197#1" expanded="true" />
-                <element signature="e#201#378#0" expanded="true" />
-                <element signature="e#206#216#1" expanded="true" />
-                <element signature="e#201#378#0" expanded="true" />
-                <element signature="e#201#378#0" expanded="true" />
-                <element signature="e#201#378#0" expanded="true" />
-                <element signature="e#201#378#0" expanded="true" />
-                <element signature="e#304#374#0" expanded="true" />
-                <element signature="e#304#374#0" expanded="true" />
-                <element signature="e#471#484#1" expanded="true" />
-                <element signature="e#492#506#1" expanded="true" />
-                <element signature="e#617#635#1" expanded="true" />
-                <element signature="e#706#731#1" expanded="true" />
-                <element signature="e#734#793#1" expanded="true" />
-                <element signature="e#815#853#0" expanded="true" />
-                <element signature="e#815#853#0" expanded="true" />
-                <element signature="e#877#915#0" expanded="true" />
-                <element signature="e#877#915#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -55,27 +30,7 @@
         <entry file="file://$PROJECT_DIR$/src/ClosestSquares.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="612">
-              <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
-              <folding>
-                <element signature="e#104#133#1" expanded="true" />
-                <element signature="e#149#224#0" expanded="true" />
-                <element signature="e#154#164#1" expanded="true" />
-                <element signature="e#149#224#0" expanded="true" />
-                <element signature="e#149#224#0" expanded="true" />
-                <element signature="e#149#224#0" expanded="true" />
-                <element signature="e#149#224#0" expanded="true" />
-                <element signature="e#193#220#0" expanded="true" />
-                <element signature="e#193#220#0" expanded="true" />
-                <element signature="e#250#260#1" expanded="true" />
-                <element signature="e#346#377#0" expanded="true" />
-                <element signature="e#346#377#0" expanded="true" />
-                <element signature="e#391#400#0" expanded="true" />
-                <element signature="e#471#532#0" expanded="true" />
-                <element signature="e#471#532#0" expanded="true" />
-                <element signature="e#596#699#1" expanded="true" />
-                <element signature="e#744#793#0" expanded="true" />
-                <element signature="e#744#793#0" expanded="true" />
-              </folding>
+              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -83,45 +38,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LostItems.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="39" column="66" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
+            <state relative-caret-position="666">
+              <caret line="38" column="66" selection-start-line="38" selection-start-column="66" selection-end-line="38" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#155#193#1" expanded="true" />
-                <element signature="e#175#192#0" expanded="true" />
-                <element signature="e#196#224#1" expanded="true" />
-                <element signature="e#227#255#1" expanded="true" />
-                <element signature="e#258#357#0" expanded="true" />
-                <element signature="e#263#273#1" expanded="true" />
-                <element signature="e#258#357#0" expanded="true" />
-                <element signature="e#258#357#0" expanded="true" />
-                <element signature="e#258#357#0" expanded="true" />
-                <element signature="e#258#357#0" expanded="true" />
-                <element signature="e#303#353#0" expanded="true" />
-                <element signature="e#303#353#0" expanded="true" />
-                <element signature="e#337#347#0" expanded="true" />
-                <element signature="e#337#347#0" expanded="true" />
-                <element signature="e#431#461#1" expanded="true" />
-                <element signature="e#461#523#0" expanded="true" />
-                <element signature="e#469#479#1" expanded="true" />
-                <element signature="e#461#523#0" expanded="true" />
-                <element signature="e#461#523#0" expanded="true" />
-                <element signature="e#461#523#0" expanded="true" />
-                <element signature="e#461#523#0" expanded="true" />
-                <element signature="e#510#518#0" expanded="true" />
-                <element signature="e#510#518#0" expanded="true" />
-                <element signature="e#586#616#1" expanded="true" />
-                <element signature="e#619#664#0" expanded="true" />
-                <element signature="e#624#633#0" expanded="true" />
-                <element signature="e#619#664#0" expanded="true" />
-                <element signature="e#589#652#1" expanded="true" />
-                <element signature="e#655#733#1" expanded="true" />
-                <element signature="e#736#769#1" expanded="true" />
-                <element signature="e#772#811#1" expanded="true" />
-                <element signature="e#975#1024#0" expanded="true" />
-                <element signature="e#989#1024#0" expanded="true" />
-                <element signature="e#989#1024#0" expanded="true" />
-                <element signature="e#975#1024#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,16 +52,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
               <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-              <folding>
-                <element signature="e#70#296#0" expanded="true" />
-                <element signature="e#70#296#0" expanded="true" />
-                <element signature="e#106#296#0" expanded="true" />
-                <element signature="e#106#296#0" expanded="true" />
-                <element signature="e#142#296#0" expanded="true" />
-                <element signature="e#142#296#0" expanded="true" />
-                <element signature="e#178#296#0" expanded="true" />
-                <element signature="e#178#296#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -274,6 +184,7 @@
       <workItem from="1560481793919" duration="2730000" />
       <workItem from="1560484731980" duration="37000" />
       <workItem from="1560492799217" duration="1683000" />
+      <workItem from="1560904387535" duration="81000" />
     </task>
     <task id="LOCAL-00001" summary="Added Redo">
       <created>1560482860873</created>
@@ -286,11 +197,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5097000" />
+    <option name="totallyTimeSpent" value="5178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="12" width="1426" height="881" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4981884" weight="0.1384058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -334,74 +244,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added Redo" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LostItems.java">
+    <entry file="file://$PROJECT_DIR$/src/BestSplit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="66" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#155#193#1" expanded="true" />
-            <element signature="e#175#192#0" expanded="true" />
-            <element signature="e#196#224#1" expanded="true" />
-            <element signature="e#227#255#1" expanded="true" />
-            <element signature="e#258#357#0" expanded="true" />
-            <element signature="e#263#273#1" expanded="true" />
-            <element signature="e#258#357#0" expanded="true" />
-            <element signature="e#258#357#0" expanded="true" />
-            <element signature="e#258#357#0" expanded="true" />
-            <element signature="e#258#357#0" expanded="true" />
-            <element signature="e#303#353#0" expanded="true" />
-            <element signature="e#303#353#0" expanded="true" />
-            <element signature="e#337#347#0" expanded="true" />
-            <element signature="e#337#347#0" expanded="true" />
-            <element signature="e#431#461#1" expanded="true" />
-            <element signature="e#461#523#0" expanded="true" />
-            <element signature="e#469#479#1" expanded="true" />
-            <element signature="e#461#523#0" expanded="true" />
-            <element signature="e#461#523#0" expanded="true" />
-            <element signature="e#461#523#0" expanded="true" />
-            <element signature="e#461#523#0" expanded="true" />
-            <element signature="e#510#518#0" expanded="true" />
-            <element signature="e#510#518#0" expanded="true" />
-            <element signature="e#586#616#1" expanded="true" />
-            <element signature="e#619#664#0" expanded="true" />
-            <element signature="e#624#633#0" expanded="true" />
-            <element signature="e#619#664#0" expanded="true" />
-            <element signature="e#589#652#1" expanded="true" />
-            <element signature="e#655#733#1" expanded="true" />
-            <element signature="e#736#769#1" expanded="true" />
-            <element signature="e#772#811#1" expanded="true" />
-            <element signature="e#975#1024#0" expanded="true" />
-            <element signature="e#989#1024#0" expanded="true" />
-            <element signature="e#989#1024#0" expanded="true" />
-            <element signature="e#975#1024#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="653">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ClosestSquares.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
-          <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LostItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="38" column="66" selection-start-line="38" selection-start-column="66" selection-end-line="38" selection-end-column="66" />
           <folding>
-            <element signature="e#104#133#1" expanded="true" />
-            <element signature="e#149#224#0" expanded="true" />
-            <element signature="e#154#164#1" expanded="true" />
-            <element signature="e#149#224#0" expanded="true" />
-            <element signature="e#149#224#0" expanded="true" />
-            <element signature="e#149#224#0" expanded="true" />
-            <element signature="e#149#224#0" expanded="true" />
-            <element signature="e#193#220#0" expanded="true" />
-            <element signature="e#193#220#0" expanded="true" />
-            <element signature="e#250#260#1" expanded="true" />
-            <element signature="e#346#377#0" expanded="true" />
-            <element signature="e#346#377#0" expanded="true" />
-            <element signature="e#391#400#0" expanded="true" />
-            <element signature="e#471#532#0" expanded="true" />
-            <element signature="e#471#532#0" expanded="true" />
-            <element signature="e#596#699#1" expanded="true" />
-            <element signature="e#744#793#0" expanded="true" />
-            <element signature="e#744#793#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -419,36 +281,6 @@
             <element signature="e#142#296#0" expanded="true" />
             <element signature="e#178#296#0" expanded="true" />
             <element signature="e#178#296#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BestSplit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="e#67#86#1" expanded="true" />
-            <element signature="e#89#103#1" expanded="true" />
-            <element signature="e#119#161#1" expanded="true" />
-            <element signature="e#164#197#1" expanded="true" />
-            <element signature="e#201#378#0" expanded="true" />
-            <element signature="e#206#216#1" expanded="true" />
-            <element signature="e#201#378#0" expanded="true" />
-            <element signature="e#201#378#0" expanded="true" />
-            <element signature="e#201#378#0" expanded="true" />
-            <element signature="e#201#378#0" expanded="true" />
-            <element signature="e#304#374#0" expanded="true" />
-            <element signature="e#304#374#0" expanded="true" />
-            <element signature="e#471#484#1" expanded="true" />
-            <element signature="e#492#506#1" expanded="true" />
-            <element signature="e#617#635#1" expanded="true" />
-            <element signature="e#706#731#1" expanded="true" />
-            <element signature="e#734#793#1" expanded="true" />
-            <element signature="e#815#853#0" expanded="true" />
-            <element signature="e#815#853#0" expanded="true" />
-            <element signature="e#877#915#0" expanded="true" />
-            <element signature="e#877#915#0" expanded="true" />
           </folding>
         </state>
       </provider>
