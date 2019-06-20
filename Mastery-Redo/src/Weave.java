@@ -1,23 +1,16 @@
 public class Weave {
-	public static int numWeaves(int n) { //3-4-11
+	public static int numWeaves(int n) {
 		if (n == 0) {
 			return 1;
-		} if (n == 3) {
+		}
+		if (n == 3) {
 			return 1;
-		} if (n == 4) {
+		}
+		if (n == 4) {
 			return 1;
-		} if (n == 1 || n == 2 || n < 0) {
+		}
+		if (n < 0 || n == 2 || n == 1) {
 			return 0;
 		} else return numWeaves(n - 3) + numWeaves(n - 4) + numWeaves(n - 11);
-	}
-
-	public static void main(String[] args) {
-		int[] input = {3, 6, 14, 75};
-		int[] expected = {1, 1, 8, 5217077};
-
-		for (int i = 0; i < input.length; i++) {
-			System.out.printf("Test #%d, verdict: %b [expected=%d]\n",
-					i + 1, expected[i] == numWeaves(input[i]), expected[i]);
-		}
 	}
 }
