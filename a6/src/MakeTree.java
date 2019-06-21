@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class MakeTree {
 	public static BinaryTreeNode buildBST(int[] keys) {
 		Arrays.sort(keys); // O( n * log n )
-		int medium = keys.length / 2;
+		int medium = (keys.length-1) /2;
 		return new BinaryTreeNode(
 				treeMaker(keys, 0, medium - 1),
 				keys[medium],
@@ -35,15 +35,15 @@ public class MakeTree {
 
 	public static void main(String[] args) {
 		int[] keys = new int[10];
-		keys[0] = 13;
+		keys[0] = 1;
 		keys[1] = 2;
-		keys[2] = 55;
-		keys[3] = 98;
-		keys[4] = 57;
-		keys[5] = 33;
-		keys[6] = 87;
-		keys[7] = 43;
-		keys[8] = 7;
+		keys[2] = 6;
+		keys[3] = 7;
+		keys[4] = 5;
+		keys[5] = 3;
+		keys[6] = 8;
+		keys[7] = 4;
+		keys[8] = 9;
 		keys[9] = 10;
 		printInOrder(buildBST(keys));
 	}
