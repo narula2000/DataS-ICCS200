@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9833fdf-8a59-4c1d-b206-621499a8bcb8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Solve MUIC Data Structures, Mastery Practice 2 Questions _ Contests _ HackerRank.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../a5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mastery-2/KStacks$StackBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mastery-2/KStacks$StackBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mastery-2/KStacks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mastery-2/KStacks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mastery-2/ParenMatcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mastery-2/ParenMatcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KStacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KStacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a7/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,6 +49,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -61,10 +66,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -136,16 +141,17 @@
       <workItem from="1560405097797" duration="126000" />
       <workItem from="1560409050234" duration="10934000" />
       <workItem from="1560479071813" duration="626000" />
+      <workItem from="1562828384455" duration="101000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11774000" />
+    <option name="totallyTimeSpent" value="11875000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="721" y="12" width="712" height="881" extended-state="6" />
+    <frame x="10" y="15" width="1346" height="743" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.045045044" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19923078" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />

@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bc9fd2a-0730-4c93-bd70-5b2003b05c0f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp/m2-workbench/Count.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp/m2-workbench/KStacks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp/m2-workbench/Manhattan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp/m2-workbench/ParenMatcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp/m2-workbench/mastery2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp/yoyo.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastery-2/src/KStacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastery-2/src/KStacks.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +15,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -112,6 +105,7 @@
       <workItem from="1562594237614" duration="590000" />
       <workItem from="1562680945482" duration="5741000" />
       <workItem from="1562689409209" duration="39000" />
+      <workItem from="1562823595421" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="Started Assignment 7, Didn't Finish Assignment 6 completely due to not finishing the exercise 3 sub task 2. Finished Assignment 7 on the exercise 2 which is analyze the code given in the exercise2.java">
       <created>1561520757516</created>
@@ -124,10 +118,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13762000" />
+    <option name="totallyTimeSpent" value="13769000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="15" width="706" height="875" extended-state="6" />
+    <frame x="32" y="37" width="1376" height="831" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.41484717" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

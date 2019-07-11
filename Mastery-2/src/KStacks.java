@@ -2,9 +2,29 @@ import java.util.*;
 
 public class KStacks {
     public static int maximizeScore(List<Stack<Integer>> S, int x) {
-	   return 5;
+        int c=0;
+        int sum=0;
+        Stack<Integer> store= new Stack<>();
+        PriorityQueue<Stack<Integer>> pq = new PriorityQueue<>(Comparator.comparing(Stack<Integer>::peek));
+        if(x==0){
+            return 0;
+        }
+        for (int i = 0; i <S.size() ; i++) {
+            pq.add(S.get(i));
+        }
+        while(sum<x){
+            store=pq.poll();
+            sum+=store.pop();
+            if(!store.isEmpty()){
+                pq.add(store);
+            }
+            c++;
+        }
+        if(sum>x) {
+            c--;
+        }
+        return c;
     }
-
     // Convenient class (you can but don't need to use it.)
     static class StackBuilder<T> {
         private Stack<T> stk;
