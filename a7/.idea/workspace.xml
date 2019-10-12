@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bc9fd2a-0730-4c93-bd70-5b2003b05c0f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Mastery-2/src/KStacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastery-2/src/KStacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastery-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mastery-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,14 +30,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/exercise2.java" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Pair.java" />
-        <option value="$PROJECT_DIR$/src/exercise2.java" />
-        <option value="$PROJECT_DIR$/src/Cycle.java" />
-      </list>
-    </option>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -47,20 +41,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="15" />
-    <option name="width" value="706" />
-    <option name="height" value="875" />
-  </component>
+  <component name="ProjectId" id="1Qd9CdjyBiOi3k4jdHWFhEL0Fy3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -106,6 +89,7 @@
       <workItem from="1562680945482" duration="5741000" />
       <workItem from="1562689409209" duration="39000" />
       <workItem from="1562823595421" duration="7000" />
+      <workItem from="1568089482404" duration="194000" />
     </task>
     <task id="LOCAL-00001" summary="Started Assignment 7, Didn't Finish Assignment 6 completely due to not finishing the exercise 3 sub task 2. Finished Assignment 7 on the exercise 2 which is analyze the code given in the exercise2.java">
       <created>1561520757516</created>
@@ -117,142 +101,22 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13769000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="32" y="37" width="1376" height="831" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.41484717" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="UI Designer" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Flutter Performance" order="12" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Flutter Inspector" order="5" />
-      <window_info anchor="right" id="Flutter Outline" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="Capture Analysis" order="10" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Started Assignment 7, Didn't Finish Assignment 6 completely due to not finishing the exercise 3 sub task 2. Finished Assignment 7 on the exercise 2 which is analyze the code given in the exercise2.java" />
     <option name="LAST_COMMIT_MESSAGE" value="Started Assignment 7, Didn't Finish Assignment 6 completely due to not finishing the exercise 3 sub task 2. Finished Assignment 7 on the exercise 2 which is analyze the code given in the exercise2.java" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/exercise2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#126#163#0" expanded="true" />
-            <element signature="e#188#199#0" expanded="true" />
-            <element signature="e#244#255#0" expanded="true" />
-            <element signature="e#386#400#0" expanded="true" />
-            <element signature="e#386#400#0" expanded="true" />
-            <element signature="e#451#507#0" expanded="true" />
-            <element signature="e#538#554#0" expanded="true" />
-            <element signature="e#538#554#0" expanded="true" />
-            <element signature="e#520#575#0" expanded="true" />
-            <element signature="e#604#620#0" expanded="true" />
-            <element signature="e#604#620#0" expanded="true" />
-            <element signature="e#609#627#0" expanded="true" />
-            <element signature="e#758#782#0" expanded="true" />
-            <element signature="e#758#782#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Cycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
-          <folding>
-            <element signature="e#123#167#1" expanded="true" />
-            <element signature="e#184#513#0" expanded="true" />
-            <element signature="e#188#196#0" expanded="true" />
-            <element signature="e#184#513#0" expanded="true" />
-            <element signature="e#228#509#0" expanded="true" />
-            <element signature="e#228#509#0" expanded="true" />
-            <element signature="e#242#268#1" expanded="true" />
-            <element signature="e#332#367#0" expanded="true" />
-            <element signature="e#332#367#0" expanded="true" />
-            <element signature="e#373#398#0" expanded="true" />
-            <element signature="e#373#398#0" expanded="true" />
-            <element signature="e#373#398#0" expanded="true" />
-            <element signature="e#400#429#1" expanded="true" />
-            <element signature="e#440#460#0" expanded="true" />
-            <element signature="e#440#460#0" expanded="true" />
-            <element signature="e#466#503#0" expanded="true" />
-            <element signature="e#466#503#0" expanded="true" />
-            <element signature="e#519#549#1" expanded="true" />
-            <element signature="e#546#563#0" expanded="true" />
-            <element signature="e#565#612#1" expanded="true" />
-            <element signature="e#693#721#1" expanded="true" />
-            <element signature="e#647#670#0" expanded="true" />
-            <element signature="e#647#670#0" expanded="true" />
-            <element signature="e#694#802#0" expanded="true" />
-            <element signature="e#616#629#0" expanded="true" />
-            <element signature="e#694#802#0" expanded="true" />
-            <element signature="e#794#809#0" expanded="true" />
-            <element signature="e#805#839#0" expanded="true" />
-            <element signature="e#592#608#0" expanded="true" />
-            <element signature="e#805#839#0" expanded="true" />
-            <element signature="e#1009#1314#0" expanded="true" />
-            <element signature="e#1009#1314#0" expanded="true" />
-            <element signature="e#1045#1063#0" expanded="true" />
-            <element signature="e#1045#1063#0" expanded="true" />
-            <element signature="e#1083#1102#0" expanded="true" />
-            <element signature="e#1083#1102#0" expanded="true" />
-            <element signature="e#1107#1207#0" expanded="true" />
-            <element signature="e#1084#1092#0" expanded="true" />
-            <element signature="e#1123#1140#0" expanded="true" />
-            <element signature="e#1123#1140#0" expanded="true" />
-            <element signature="e#1107#1207#0" expanded="true" />
-            <element signature="e#1148#1202#0" expanded="true" />
-            <element signature="e#1152#1169#0" expanded="true" />
-            <element signature="e#1152#1169#0" expanded="true" />
-            <element signature="e#1152#1169#0" expanded="true" />
-            <element signature="e#1148#1202#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
